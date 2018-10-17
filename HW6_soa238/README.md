@@ -22,7 +22,7 @@ Spearman's Correlation	| 1+, Neighborhood Disadvantange, and geographic remotene
 ![journal pone 0092036 t002](https://user-images.githubusercontent.com/43255451/47109506-69c16780-d21c-11e8-9d34-66f4e43ec270.png)
 
 
-##3.
+## 3.
 ### Immigrant BMI trends over time by geographic remoteness (2006–2014)
 ![journal pone 0191729 g002](https://user-images.githubusercontent.com/43255451/47109205-a345a300-d21b-11e8-9513-f90c5376b3b7.PNG)
 ### Immigrant BMI trends over time by quintile of neighbourhood disadvantage (2006–2014)
