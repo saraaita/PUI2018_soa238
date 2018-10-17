@@ -11,9 +11,12 @@ Spearman's Correlation	| 1+, Neighborhood Disadvantange, and geographic remotene
 
 
 
-### ANOVA image:
+### Number of male and female IPS member for each academic position
 
 ![Alt text](https://bit.ly/2IWZoaF)
+
+### Comparison of Nausea, Vomiting, Depression, Anxiety and Stress at Hospitalization for Hyperemesis Gravidarum and at the Third Trimester
+![journal pone 0092036 t002](https://user-images.githubusercontent.com/43255451/47109506-69c16780-d21c-11e8-9d34-66f4e43ec270.png)
 
 ### Immigrant BMI trends over time by geographic remoteness (2006–2014)
 ![journal pone 0191729 g002](https://user-images.githubusercontent.com/43255451/47109205-a345a300-d21b-11e8-9513-f90c5376b3b7.PNG)
