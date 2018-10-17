@@ -1,5 +1,5 @@
-## HW6_Assignment 2:
-# Collaborated with Kate Cauley, and Alia Kassem
+# HW6_Assignment 2:
+## Collaborated with Kate Cauley, and Alia Kassem
 
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
@@ -11,9 +11,9 @@ Spearman's Correlation	| 1+, Neighborhood Disadvantange, and geographic remotene
 
 
 
-# ANOVA image:
+## ANOVA image:
 
 ![Alt text](https://bit.ly/2IWZoaF)
 
-# Immigrant BMI trends over time by geographic remoteness (2006–2014)
+## Immigrant BMI trends over time by geographic remoteness (2006–2014)
 ![Alt text](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0191729.g002)
